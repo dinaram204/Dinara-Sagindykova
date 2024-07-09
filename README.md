@@ -13,6 +13,5 @@ Here are some projects that were done by me or in a team during my study. Testin
 
 Functional and API testing, UI/UX, Confluence, Jira, Postman, Mockoon, GitHub, PostgreSQL, Apache-Jmeter, pgAdmin
 
-Contacts
-WhatsApp +77052188961
-mdink@mail.ru
+https://www.facebook.com/dinara.mustakhayeva/ 
+
